@@ -7,7 +7,7 @@
   border: 2px solid #000;
 }
 
-.game__field {
+.game .game__field {
   display: flex;
   flex-wrap: wrap;
 }
